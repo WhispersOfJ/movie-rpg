@@ -34,3 +34,14 @@ container, separate lifecycle).
 See §12 + §5.1/§5.2/§6.4 of `movie-rpg-spec.md`. Most values are now concrete
 in the spec; remaining "finalize during implementation" items are explicit in
 the spec and should be resolved there as they're decided, not silently.
+
+## Inspiration & thanks
+
+- **Legends of the Green Dragon (LoGD)** — https://www.lotgd.net/ — a design inspiration
+  source (daily loop, fame/renown signal, holiday modules, host/module model, onboarding
+  primer, genre/race/specialty flavor, rank ladder, new-game+ dragon cycle) and a model for
+  how a host ships/modularizes features. LoGD is a remake/homage of Seth Able's **Legend of
+  the Red Dragon (LoRD)** (a BBS door game). LoGD is **not** a technical dependency of this
+  RPG (this RPG is Rust/Axum + Postgres, not PHP/MySQL); it is acknowledged here as a design
+  inspiration only. Module catalog: https://www.lotgd.net/about.php?op=listmodules ·
+  primer: https://www.lotgd.net/petition.php?op=primer .
