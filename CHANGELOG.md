@@ -1,10 +1,26 @@
-# Changelog
+## 0.0.0 (2026-09-09)
+
+
+### Features
+
+* initial commit — Movie / TV RPG spec ([5bc23ee](https://github.com/WhispersOfJ/movie-rpg/commit/5bc23eeabf3275453734d3f6e915791810d11c0c))
+
+
+### Documentation
+
+* add Legends of the Green Dragon (LoGD) thanks + link-back ([11c84e1](https://github.com/WhispersOfJ/movie-rpg/commit/11c84e12ca54f48238e4b131864ac833fdc847ba))
+
+
+### Maintenance
+
+* add repo settings — release-please, workflows, LICENSE, CONTRIBUTING, CLAUDE.md, gitignore ([953ce64](https://github.com/WhispersOfJ/movie-rpg/commit/953ce645cd47e35a057c13b9818e3b3fe73bd3b9))
 
 ## 0.0.0 (2026-09-10)
 
 
 ### Features
 
+* add Lantern Academy archetype selection ([9b2e4ff](https://github.com/WhispersOfJ/movie-rpg/commit/9b2e4fff2a3e3172972789058b5fffca9f63be91))
 * add accounts and characters identity migration ([a285ea0](https://github.com/WhispersOfJ/movie-rpg/commit/a285ea00059ad34b09e9ba652daed2bfb93f635e))
 * add achievements engine, mystery watch orders, and the game tick ([2c3c454](https://github.com/WhispersOfJ/movie-rpg/commit/2c3c454f037ff944471df94e7b250f1955c7f9f6))
 * add achievements migration with the section 5.5 first-cut seed ([0327750](https://github.com/WhispersOfJ/movie-rpg/commit/03277500e020032ae234f63599b68a4606935ea1))
@@ -34,6 +50,10 @@
 * orchestrate stack content sync ([8a62eb0](https://github.com/WhispersOfJ/movie-rpg/commit/8a62eb07121c0da3c5b8600ae920b849555b84dd))
 
 
+### Bug Fixes
+
+* remediate full-codebase review findings (F-1 through F-39) ([3f7fbb2](https://github.com/WhispersOfJ/movie-rpg/commit/3f7fbb24c9eace26cb7d029be3a2f73f8c7a8b98))
+
 ### Documentation
 
 * add handoff file for cross-session RPG work ([5a430f8](https://github.com/WhispersOfJ/movie-rpg/commit/5a430f827049e1b6408d06b77bcda70fb2873059))
@@ -53,20 +73,3 @@
 * add repo settings — release-please, workflows, LICENSE, CONTRIBUTING ([#1](https://github.com/WhispersOfJ/movie-rpg/issues/1)) ([ff77980](https://github.com/WhispersOfJ/movie-rpg/commit/ff779800c334572e4cf46fb4fa5f7b28e36df3db))
 * add repo settings — release-please, workflows, LICENSE, CONTRIBUTING, CLAUDE.md, gitignore ([953ce64](https://github.com/WhispersOfJ/movie-rpg/commit/953ce645cd47e35a057c13b9818e3b3fe73bd3b9))
 * **release-please-setup:** release 0.0.0 ([#2](https://github.com/WhispersOfJ/movie-rpg/issues/2)) ([0da8170](https://github.com/WhispersOfJ/movie-rpg/commit/0da81709b116d997730e7ed4da68cec6b774d838))
-
-## 0.0.0 (2026-09-09)
-
-
-### Features
-
-* initial commit — Movie / TV RPG spec ([5bc23ee](https://github.com/WhispersOfJ/movie-rpg/commit/5bc23eeabf3275453734d3f6e915791810d11c0c))
-
-
-### Documentation
-
-* add Legends of the Green Dragon (LoGD) thanks + link-back ([11c84e1](https://github.com/WhispersOfJ/movie-rpg/commit/11c84e12ca54f48238e4b131864ac833fdc847ba))
-
-
-### Maintenance
-
-* add repo settings — release-please, workflows, LICENSE, CONTRIBUTING, CLAUDE.md, gitignore ([953ce64](https://github.com/WhispersOfJ/movie-rpg/commit/953ce645cd47e35a057c13b9818e3b3fe73bd3b9))
