@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.0.0](https://github.com/WhispersOfJ/movie-rpg/compare/0.0.0...0.0.0) (2026-09-11)
+
+
+### Bug Fixes
+
+* **auth:** rate-limit PIN login attempts ([1e33525](https://github.com/WhispersOfJ/movie-rpg/commit/1e33525f946d79b659f2be9bedee53e0ac875814))
+* **ci:** prevent PR title script injection ([4a41a67](https://github.com/WhispersOfJ/movie-rpg/commit/4a41a679d0111b7b419768299de8aa0a6db49d55))
+
+
+### Documentation
+
+* **changelog:** restore archetype and remediation entries to 0.0.0 notes ([ec6f814](https://github.com/WhispersOfJ/movie-rpg/commit/ec6f81498d6d3edc6898f59feb69b26849149b6c))
+
 ## 0.0.0 (2026-09-10)
 
 
